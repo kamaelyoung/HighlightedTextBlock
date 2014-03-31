@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HighlightedTextBlock</id>
+    <version>1.0.0</version>
+    <title>HighlightedTextBlock</title>
+    <authors>Marcel Marnitz</authors>
+    <licenseUrl>https://github.com/frostieDE/HighlightedTextBlock/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/frostieDE/HighlightedTextBlock</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A TextBlock control for Windows Phone which can highlight parts of the text.</description>
+    <releaseNotes>This is the initial release. Feel free to contribute on GitHub</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>windows phone wp8 wp textblock highlighted highlight text</tags>
+  </metadata>
+  
+  <files>
+	<file src="..\src\HighlightedTextBlock.Control\Bin\Release\HighlightedTextBlock.Control.*" target="lib\windowsphone8" />
+  </files>
+</package>
